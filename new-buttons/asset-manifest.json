@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-toggle-buttons/static/css/main.17c5b486.css",
+    "main.js": "/react-toggle-buttons/static/js/main.0d970886.js",
+    "index.html": "/react-toggle-buttons/index.html",
+    "main.17c5b486.css.map": "/react-toggle-buttons/static/css/main.17c5b486.css.map",
+    "main.0d970886.js.map": "/react-toggle-buttons/static/js/main.0d970886.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17c5b486.css",
+    "static/js/main.0d970886.js"
+  ]
+}
