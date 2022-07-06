@@ -9,7 +9,8 @@ const Button = ({ label, fontIcon }) => {
   const [ariaPressed, setAriaPressed] = useState(false)
   const [faIcon, setFaIcon] = useState(fontIcon)
   const buttonRef = useRef(null)
-
+  //for the sake of squashing I am going to commit some comments.
+  // WIP comment 2
   //enter button events
   const onButtonClick = () => {
     if (ariaPressed === false) {
@@ -38,8 +39,6 @@ const Button = ({ label, fontIcon }) => {
     </button>
   )
 }
-//for the sake of squashing I am going to commit some comments.
-// WIP comment 2
 const App = () => {
   return (
     <div className='wrapper'>
