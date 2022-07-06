@@ -9,9 +9,9 @@ const Button = ({ label, fontIcon }) => {
   const [ariaPressed, setAriaPressed] = useState(false)
   const [faIcon, setFaIcon] = useState(fontIcon)
   const buttonRef = useRef(null)
-  // I want to be kept
+  // Important addition
 
-  // I want to be kept
+  // Another important feature added
   //enter button events
   const onButtonClick = () => {
     if (ariaPressed === false) {
