@@ -10,6 +10,8 @@ const Button = ({ label, fontIcon }) => {
   const [faIcon, setFaIcon] = useState(fontIcon)
   const buttonRef = useRef(null)
   // I want to be kept
+
+  // I want to be kept
   //enter button events
   const onButtonClick = () => {
     if (ariaPressed === false) {
